@@ -4,9 +4,9 @@
   --forest: #14352a;
   --forest-2: #1c4437;
   --forest-3: #0e261f;
-  --cream: #f7f2e5;
-  --paper: #efe7d3;
-  --sand: #e7dcc4;
+  --cream: #f9f5ec;
+  --paper: #f3ecdd;
+  --sand: #e9dfc9;
   --gold: #c9a670;
   --gold-deep: #a2793f;
   --gold-soft: #e8d9b8;
@@ -246,7 +246,7 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; line-height: 1.12;
   position: fixed;
   inset: 0;
   z-index: 1000;
-  background: var(--forest-3);
+  background: var(--cream);
   display: grid;
   place-items: center;
   transition: opacity 0.8s ease, visibility 0.8s;
@@ -457,14 +457,14 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; line-height: 1.12;
 @keyframes drip { 0% { top: -22px; } 70%, 100% { top: 60px; } }
 
 .marquee {
-  background: var(--forest);
-  color: rgba(247, 242, 229, 0.85);
-  border-block: 1px solid rgba(201, 166, 112, 0.35);
+  background: var(--cream);
+  color: var(--muted);
+  border-block: 1px solid var(--line);
   overflow: hidden;
   padding: 14px 0;
 }
 .marquee-track { display: flex; gap: 44px; width: max-content; animation: marquee 30s linear infinite; }
-.marquee-track span { display: inline-flex; align-items: center; gap: 44px; font-size: 12px; font-weight: 500; letter-spacing: 0.3em; text-transform: uppercase; white-space: nowrap; }
+.marquee-track span { display: inline-flex; align-items: center; gap: 44px; font-size: 12px; font-weight: 500; letter-spacing: 0.28em; text-transform: uppercase; white-space: nowrap; color: var(--muted); }
 .marquee-track .mk { color: var(--gold); font-size: 12px; }
 .marquee span:nth-of-type(even) { opacity: 0.55; }
 @keyframes marquee { to { transform: translateX(-50%); } }
@@ -1338,7 +1338,9 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; line-height: 1.12;
   display: flex;
   align-items: stretch;
   overflow: hidden;
-  background: linear-gradient(160deg, var(--forest-3) 0%, var(--forest) 70%, #1a4536 130%);
+  background:
+    linear-gradient(168deg, rgba(14, 38, 31, 0.88) 0%, rgba(14, 38, 31, 0.5) 46%, rgba(14, 38, 31, 0.82) 100%),
+    url('../images/venue-4.png') center/cover no-repeat var(--forest-3);
 }
 .hx-grid {
   display: grid;
