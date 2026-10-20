@@ -1,6 +1,16 @@
 (function () {
   'use strict';
 
+  document.documentElement.classList.add('js');
+
+  document.querySelectorAll('.pk-card, .value-card').forEach(card => {
+    card.addEventListener('pointermove', e => {
+      const r = card.getBoundingClientRect();
+      card.style.setProperty('--mx', (((e.clientX - r.left) / r.width) * 100).toFixed(1) + '%');
+      card.style.setProperty('--my', (((e.clientY - r.top) / r.height) * 100).toFixed(1) + '%');
+    });
+  });
+
   const pre = document.querySelector('.preloader');
   if (pre) {
     const done = () => { pre.classList.add('done'); document.body.classList.add('loaded'); };
