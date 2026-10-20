@@ -255,4 +255,29 @@
   document.querySelectorAll('.count-visit').forEach(el => {
     el.addEventListener('click', () => el.classList.add('clicked'));
   });
+
+  if (window.matchMedia('(hover: hover) and (pointer: fine)').matches) {
+    const list = document.querySelector('.hx-list');
+    if (list) {
+      const fol = document.createElement('div');
+      fol.className = 'hx-follow';
+      fol.innerHTML = '<img alt="" aria-hidden="true">';
+      list.appendChild(fol);
+      const fimg = fol.querySelector('img');
+      list.querySelectorAll('.hx-row').forEach(r => {
+        r.addEventListener('pointerenter', () => {
+          fimg.src = r.dataset.img;
+          fol.classList.add('on');
+        });
+        r.addEventListener('pointerleave', () => fol.classList.remove('on'));
+      });
+      list.addEventListener('pointermove', e => {
+        const bx = list.getBoundingClientRect();
+        const x = Math.min(Math.max(e.clientX - bx.left - 60, 0), bx.width - 160);
+        const y = Math.max(e.clientY - bx.top - 150, -40);
+        fol.style.setProperty('--fx', Math.round(x) + 'px');
+        fol.style.setProperty('--fy', Math.round(y) + 'px');
+      });
+    }
+  }
 })();
