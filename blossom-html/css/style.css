@@ -1550,3 +1550,6 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; line-height: 1.12;
   .hx-h1 { font-size: clamp(40px, 12.5vw, 56px); }
   
 }
+
+.field.err input, .field.err select, .field.err textarea { border-color: #bf4b3a !important; box-shadow: 0 0 0 3px rgba(191, 75, 58, 0.12); }
+.form-ok.bad { border-color: rgba(191, 75, 58, 0.7); background: rgba(191, 75, 58, 0.1); color: #e2a697; }

@@ -232,17 +232,50 @@
     btn.addEventListener('pointerleave', () => { btn.style.transform = ''; });
   });
 
-  const form = document.getElementById('enquiryForm');
+    const form = document.getElementById('enquiryForm');
   if (form) {
+    const fd = form.querySelector('#fDate');
+    const okEl = form.querySelector('.form-ok');
+    const send = form.querySelector('button[type="submit"]');
+    if (fd) { const td = new Date(); td.setHours(0, 0, 0, 0); fd.min = td.toISOString().slice(0, 10); }
+    const waNum = '918470804805';
+    const showOk = (m, bad) => { if (!okEl) return; okEl.textContent = m; okEl.classList.toggle('bad', !!bad); okEl.classList.add('show'); };
     form.addEventListener('submit', e => {
       e.preventDefault();
-      const ok = form.querySelector('.form-ok');
-      const send = form.querySelector('button[type="submit"]');
-      if (send) { send.disabled = true; send.innerHTML = '<span>Sending the blossoming envelope&#8230;</span>'; }
-      setTimeout(() => {
-        if (ok) ok.classList.add('show');
-        try { if (send) { send.innerHTML = 'Request Sent — We Will Call You'; } form.reset(); } catch (err) {}
-      }, 1100);
+      const g = s => { const el = form.querySelector(s); return el ? el.value : ''; };
+      const name = g('#fName');
+      const phoneRaw = g('#fPhone');
+      const phone = phoneRaw.replace(/[^0-9]/g, '').replace(/^91(?=[0-9]{10}$)/, '');
+      const date = fd ? fd.value : '';
+      const guests = g('#fGuests');
+      const type = g('#fType');
+      const pack = g('#fPack');
+      const note = g('#fMsg');
+      const bad = [];
+      form.querySelectorAll('.field').forEach(f => f.classList.remove('err'));
+      if (name.trim().length < 2) { const f = form.querySelector('#fName'); if (f) f.closest('.field').classList.add('err'); bad.push('your name'); }
+      if (!/^[6-9][0-9]{9}$/.test(phone)) { const f = form.querySelector('#fPhone'); if (f) f.closest('.field').classList.add('err'); bad.push('phone (10 digits)'); }
+      if (date && fd && fd.min && date < fd.min) { fd.closest('.field').classList.add('err'); bad.push('date (no past dates)'); }
+      if (bad.length) { showOk('Almost there ' + String.fromCharCode(0x2726) + ' Please check: ' + bad.join(' , ') + '.', true); return; }
+      const nice = date ? new Date(date + 'T00:00:00').toLocaleDateString('en-IN', { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric' }) : 'Flexible - please suggest';
+      const L = [
+        'NEW ENQUIRY | Blossom Party Lawn',
+        '----------------------------',
+        'Name: ' + name.trim(),
+        'Phone: ' + phoneRaw.trim(),
+        'Event date: ' + nice,
+        'Guests: ' + (guests || 'Not sure yet'),
+        'Occasion: ' + (type || 'Not sure yet'),
+        'Tier interest: ' + (pack || 'Open'),
+        note.trim() ? 'Details: ' + note.trim() : 'Details: (none)',
+        '----------------------------',
+        'Sent from the website enquiry form'
+      ];
+      const url = 'https://wa.me/' + waNum + '?text=' + encodeURIComponent(L.join('\n'));
+      const w = window.open(url, '_blank');
+      if (w) { try { w.opener = null; } catch (e2) {} }
+      showOk(String.fromCharCode(0x2726) + ' WhatsApp is open with your enquiry pre-filled - press Send there and the booking desk takes it forward.', false);
+      if (send) { send.innerHTML = 'WhatsApp Draft Ready ' + String.fromCharCode(0x2713); setTimeout(() => { send.innerHTML = 'Send Enquiry <span class="arr">\u2192</span>'; }, 4000); }
     });
   }
 
