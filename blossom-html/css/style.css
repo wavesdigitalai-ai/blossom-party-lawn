@@ -1557,3 +1557,4 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; line-height: 1.12;
 
 .hx-row { grid-template-columns: 1fr auto; }
 .section-head::before, .svc::before, .occ-body .no, .amen .amen-no, .hx-idx { display: none !important; }
+.hx-follow { display: none !important; }
