@@ -34,7 +34,7 @@ export default function Footer() {
               <a href="https://www.youtube.com/results?search_query=blossom+party+lawn+ahmedabad" aria-label="YouTube" rel="noopener" target="_blank">
                 <svg viewBox="0 0 24 24" fill="currentColor"><path d="M22 12s0-3.4-.4-5a2.8 2.8 0 0 0-2-2C17.9 4.5 12 4.5 12 4.5s-5.9 0-7.6.5a2.8 2.8 0 0 0-2 2C2 8.6 2 12 2 12s0 3.4.4 5a2.8 2.8 0 0 0 2 2c1.7.5 7.6.5 7.6.5s5.9 0 7.6-.5a2.8 2.8 0 0 0 2-2c.4-1.6.4-5 .4-5zM10 15.5v-7l6 3.5-6 3.5z" /></svg>
               </a>
-              <a href="https://wa.me/918470804805" aria-label="WhatsApp" rel="noopener" target="_blank">
+              <a href="https://wa.me/918470820640" aria-label="WhatsApp" rel="noopener" target="_blank">
                 <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2zm0 18.2c-1.5 0-3-.4-4.3-1.2l-.3-.2-3 .8.8-3-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.6-6.1c-.3-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-2-1.2 7.4 7.4 0 0 1-1.4-1.7c-.2-.3 0-.4.1-.6l.5-.6a.6.6 0 0 0 .1-.5c0-.1-.6-1.5-.8-2s-.4-.5-.6-.5h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2A5.1 5.1 0 0 0 8.1 13a11 11 0 0 0 4.2 3.7 8.9 8.9 0 0 0 2.9.9 2.9 2.9 0 0 0 2-.7 2.6 2.6 0 0 0 .9-1.9c0-.2-.2-.4-.5-.5z" /></svg>
               </a>
             </div>
@@ -70,7 +70,7 @@ export default function Footer() {
               </li>
               <li>
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6"><path d="M5 4h4l1.7 4.2-2.2 1.7a12 12 0 0 0 5.6 5.6l1.7-2.2L20 15v4a2 2 0 0 1-2.2 2A17 17 0 0 1 3 6.2 2 2 0 0 1 5 4z" /></svg>
-                <a href="tel:+918470804805">+91 84708 04805</a>
+                <a href="tel:+918470820640">+91 84608 20640</a>
               </li>
               <li>
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6"><circle cx="12" cy="12" r="8.5" /><path d="M12 7v5l3.5 2" /></svg>

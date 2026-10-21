@@ -238,7 +238,7 @@
     const okEl = form.querySelector('.form-ok');
     const send = form.querySelector('button[type="submit"]');
     if (fd) { const td = new Date(); td.setHours(0, 0, 0, 0); fd.min = td.toISOString().slice(0, 10); }
-    const waNum = '918470804805';
+    const waNum = '918470820640';
     const showOk = (m, bad) => { if (!okEl) return; okEl.textContent = m; okEl.classList.toggle('bad', !!bad); okEl.classList.add('show'); };
     form.addEventListener('submit', e => {
       e.preventDefault();

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     default: 'Blossom Party Lawn — Premier Wedding & Party Lawn in Ognaj, Ahmedabad',
     template: '%s — Blossom Party Lawn, Ahmedabad',
   },
-  description: "Blossom Party Lawn is Ahmedabad's lush open-air party lawn in Ognaj, near Gota on New Science City Road — hosting weddings, receptions, garba & sangeet nights, birthdays and corporate events for 250–600 guests. Mandap setups, outside catering, DJ, ample parking. Enquire: +91 84708 04805.",
+  description: "Blossom Party Lawn is Ahmedabad's lush open-air party lawn in Ognaj, near Gota on New Science City Road — hosting weddings, receptions, garba & sangeet nights, birthdays and corporate events for 250–600 guests. Mandap setups, outside catering, DJ, ample parking. Enquire: +91 84608 20640.",
   keywords: ['Blossom Party Lawn', 'party lawn Ahmedabad', 'marriage lawn Ognaj', 'wedding venue New Science City Road', 'reception garden Ahmedabad', 'garba party plot', 'banquet lawn Gota', 'party plot Ognaj', 'wedding garden Ahmedabad 380060'],
   authors: [{ name: 'Blossom Party Lawn' }],
   robots: { index: true, follow: true },

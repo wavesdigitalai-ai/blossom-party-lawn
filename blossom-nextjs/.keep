@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+<script type="application/ld+json" id="ld-venue">
+{"@context":"https://schema.org","@type":"EventVenue","name":"Blossom Party Lawn","alternateName":"Blossom Party Plot Ognaj","description":"Lush open-air party lawn in Ognaj, Ahmedabad for weddings, receptions, garba and sangeet nights, birthdays and corporate events. Capacity 250-600 guests with mandap setups, outdoor catering, DJ, power backup and ample parking.","url":"https://www.blossompartylawn.in/","telephone":"+91-8470804805","image":"https://www.blossompartylawn.in/images/venue-4.png","priceRange":"₹₹","currenciesAccepted":"INR","paymentAccepted":"Cash, UPI, Paytm, Google Pay, PhonePe, Net Banking","address":{"@type":"PostalAddress","streetAddress":"New Science City Road, Vasantnagar Township, Ognaj","addressLocality":"Ahmedabad","addressRegion":"Gujarat","postalCode":"380060","addressCountry":"IN"},"geo":{"@type":"GeoCoordinates","latitude":23.1181,"longitude":72.5438},"openingHours":"Mo-Su 10:00-22:00","maximumAttendeeCapacity":600,"amenityFeature":[{"@type":"LocationFeatureSpecification","name":"Party Lawn"},{"@type":"LocationFeatureSpecification","name":"Marriage Lawn"},{"@type":"LocationFeatureSpecification","name":"Mandap Setup"},{"@type":"LocationFeatureSpecification","name":"DJ Available"},{"@type":"LocationFeatureSpecification","name":"Power Backup"},{"@type":"LocationFeatureSpecification","name":"Outdoor Catering"},{"@type":"LocationFeatureSpecification","name":"Baarat Allowed"},{"@type":"LocationFeatureSpecification","name":"Fireworks Permitted"},{"@type":"LocationFeatureSpecification","name":"Hawan Allowed"},{"@type":"LocationFeatureSpecification","name":"Ample Parking"}],"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.6","bestRating":"5","ratingCount":"2"}}
+</script>
+<script type="application/ld+json" id="ld-faq">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the guest capacity of Blossom Party Lawn, Ahmedabad?","acceptedAnswer":{"@type":"Answer","text":"The lush outdoor lawn comfortably hosts 250 to 600 guests depending on your seating and stage layout."}},{"@type":"Question","name":"Where is Blossom Party Lawn located?","acceptedAnswer":{"@type":"Answer","text":"New Science City Road, Vasantnagar Township, Ognaj, Ahmedabad, Gujarat 380060 - minutes from Gota and the S P Ring Road."}},{"@type":"Question","name":"What are the event timings at Blossom Party Lawn?","acceptedAnswer":{"@type":"Answer","text":"Events run from 10:00 AM to 10:00 PM daily."}},{"@type":"Question","name":"Is outside catering allowed at Blossom Party Lawn?","acceptedAnswer":{"@type":"Answer","text":"Yes, outside caterers are welcome. Liquor is neither served nor permitted on the premises."}},{"@type":"Question","name":"What is the full-day booking price at Blossom Party Lawn?","acceptedAnswer":{"@type":"Answer","text":"Full-day venue booking starts at INR 7,00,000. Per-plate catering is customised to your menu on request."}}]}
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blossom Party Lawn — Premier Wedding &amp; Party Lawn in Ognaj, Ahmedabad</title>
+<meta name="description" content="Blossom Party Lawn is Ahmedabad's lush open-air party lawn in Ognaj, near Gota on New Science City Road — hosting weddings, receptions, garba &amp; sangeet nights, birthdays and corporate events for 250–600 guests. Mandap setups, outside catering, DJ, ample parking. Enquire: +91 84708 04805.">
+<meta name="keywords" content="Blossom Party Lawn, party lawn Ahmedabad, marriage lawn Ognaj, wedding venue New Science City Road, reception garden Ahmedabad, garba party plot, banquet lawn Gota, party plot Ognaj, wedding garden Ahmedabad 380060">
+<meta name="author" content="Blossom Party Lawn">
+<meta name="robots" content="index, follow">
+<meta name="geo.region" content="IN-GJ">
+<meta name="geo.placename" content="Ahmedabad">
+<meta name="theme-color" content="#142e27">
+<link rel="canonical" href="https://www.blossompartylawn.in/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Blossom Party Lawn">
+<meta property="og:title" content="Blossom Party Lawn — Premier Wedding &amp; Party Lawn in Ognaj, Ahmedabad">
+<meta property="og:description" content="Lush open-air celebrations for 250–600 guests. Weddings, receptions, garba nights &amp; corporate events on New Science City Road, Ognaj, Ahmedabad.">
+<meta property="og:image" content="https://www.blossompartylawn.in/images/venue-4.png">
+<meta property="og:url" content="https://www.blossompartylawn.in/">
+<meta property="og:locale" content="en_IN">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Blossom Party Lawn — Premier Wedding &amp; Party Lawn in Ahmedabad">
+<meta name="twitter:description" content="Where every celebration blooms — open-air weddings, receptions, garba nights and more in Ognaj, Ahmedabad.">
+<meta name="twitter:image" content="https://www.blossompartylawn.in/images/venue-4.png">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="css/style.css?v=5">
+</head>
+<body>
+
+<div class="preloader" id="preloader" aria-hidden="true">
+  <div>
+    <svg class="loader-flower" viewBox="0 0 96 96" fill="none"><path d="M48 48c9-4 14-13 11-22s-13-14-22-11-13 14-11 22 13 15 22 11Z" stroke-width="1.4"/><path d="M30 44c-3 9 3 19 12 22s19-3 22-12-3-19-12-22-19 3-22 12Z" stroke="none"/><circle cx="48" cy="48" r="8" stroke-width="1.4"/></svg>
+    <div class="loader-word">Blossom Party Lawn</div>
+  </div>
+</div>
+
+<div class="progress" id="prog" aria-hidden="true"></div>
+
+<header class="nav" id="nav">
+  <div class="container nav-inner">
+    <a class="brand" href="index.html" aria-label="Blossom Party Lawn — home">
+      <svg class="brand-mark" viewBox="0 0 96 96" fill="none" aria-hidden="true">
+        <circle cx="48" cy="48" r="43" stroke-width="1.6"/>
+        <ellipse cx="48" cy="30" rx="10" ry="17" stroke-width="1.6"/>
+        <ellipse cx="48" cy="30" rx="10" ry="17" stroke-width="1.6" transform="rotate(72 48 48)"/>
+        <ellipse cx="48" cy="30" rx="10" ry="17" stroke-width="1.6" transform="rotate(144 48 48)"/>
+        <ellipse cx="48" cy="30" rx="10" ry="17" stroke-width="1.6" transform="rotate(216 48 48)"/>
+        <ellipse cx="48" cy="30" rx="10" ry="17" stroke-width="1.6" transform="rotate(288 48 48)"/>
+        <circle cx="48" cy="48" r="6.5" stroke-width="1.6"/>
+      </svg>
+      <span class="brand-text">
+        <span class="brand-name">Blossom</span>
+        <span class="brand-sub">Party Lawn</span>
+      </span>
+    </a>
+    <nav aria-label="Primary">
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">The Venue</a></li>
+        <li><a href="occasions.html">Occasions</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="packages.html">Packages</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="nav-cta">
+      <a class="btn btn-gold btn-sm" href="contact.html" data-magnet>Reserve Your Date <span class="arr">→</span></a>
+    </div>
+    <button class="burger" id="burger" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<div class="mob-menu" id="mobMenu">
+  <a href="index.html">Home<sup>01</sup></a>
+  <a href="about.html">The Venue<sup>02</sup></a>
+  <a href="occasions.html">Occasions<sup>03</sup></a>
+  <a href="gallery.html">Gallery<sup>04</sup></a>
+  <a href="packages.html">Packages<sup>05</sup></a>
+  <a href="contact.html">Contact<sup>06</sup></a>
+  <div class="mm-meta">New Science City Road, Ognaj, Ahmedabad &nbsp;·&nbsp; +91 84708 04805</div>
+</div>
+
+<main>
+
+<section class="hx-hero" id="hero">
+  <div class="container hx-grid">
+    <div class="hx-copy">
+      <p class="hx-kicker"><span>Blossom Party Lawn &mdash; Ognaj, Ahmedabad</span></p>
+      <h1 class="hx-h1">
+        <span class="l1"><span>Ahmedabad&rsquo;s</span></span>
+        <span class="l2"><span>Open-Air Venue</span></span>
+        <span class="l3"><span class="script">where celebrations bloom</span></span>
+      </h1>
+      <p class="hx-sub">One lawn of 1.5+ acres &mdash; 250 to 600 guests, mandap &amp; stage ready, outside catering welcome, every amenity in place. Weddings, garba nights, corporate meets: ten to ten, daily.</p>
+      <ul class="hx-stats">
+        <li><b>600</b><span>Guest capacity</span></li>
+        <li><b>4.6<small>&starf;</small></b><span>Guest rating</span></li>
+        <li><b>10&ndash;10</b><span>Daily windows</span></li>
+        <li><b>100<small>%</small></b><span>Open-air greens</span></li>
+      </ul>
+      <div class="hx-actions">
+        <a class="btn btn-gold" href="contact.html" data-magnet>Reserve Your Date <span class="arr">&rarr;</span></a>
+        <a class="btn btn-ghost" href="about.html">Explore the Venue</a>
+      </div>
+    </div>
+    <div class="hx-visual">
+      <div class="hx-frame">
+        <img class="a" src="images/venue-4.png" alt="Manicured lawn and buffet counters in golden light">
+        <img class="b" src="images/venue-6.png" alt="Golden reception stage at night">
+        <img class="c" src="images/venue-2.png" alt="LED stage wall glowing on the lawn">
+      </div>
+      <div class="hx-stamp"><span>Season<br>2026&ndash;27<br>Open</span></div>
+    </div>
+  </div>
+  <div class="scrolldown"><span>Scroll</span><i></i></div>
+</section>
+
+<div class="marquee" aria-hidden="true">
+  <div class="marquee-track">
+    <span>Weddings <i class="mk">✿</i> Receptions <i class="mk">✿</i> Garba Nights <i class="mk">✿</i> Sangeet <i class="mk">✿</i> Ring Ceremonies <i class="mk">✿</i> Monthly Milestones <i class="mk">✿</i> Baby Showers <i class="mk">✿</i> Kitty Parties <i class="mk">✿</i> Corporate Meets <i class="mk">✿</i> Anniversaries <i class="mk">✿</i></span>
+    <span>Weddings <i class="mk">✿</i> Receptions <i class="mk">✿</i> Garba Nights <i class="mk">✿</i> Sangeet <i class="mk">✿</i> Ring Ceremonies <i class="mk">✿</i> Monthly Milestones <i class="mk">✿</i> Baby Showers <i class="mk">✿</i> Kitty Parties <i class="mk">✿</i> Corporate Meets <i class="mk">✿</i> Anniversaries <i class="mk">✿</i></span>
+  </div>
+</div>
+
+<section class="section" id="intro">
+  <div class="container">
+    <div class="about-grid">
+      <div class="collage reveal" data-reveal="left">
+        <div class="collage-img collage-big"><img src="images/venue-6.png" alt="Golden floral stage decor and evening seating rows at Blossom Party Lawn Ahmedabad" loading="lazy"></div>
+        <div class="collage-img lt"><img src="images/venue-3.png" alt="Evening arrival canopy with garden lighting at Blossom Party Lawn" loading="lazy"></div>
+        <div class="collage-badge"><b>4.6★</b><span>Guest Rated</span></div>
+      </div>
+      <div class="about-copy">
+        <p class="eyebrow reveal">The Venue <span class="dot">✿</span> Ognaj, Ahmedabad</p>
+        <h2 class="h2 reveal" style="--d:.1s">A garden wedding venue that feels <em class="script">serenely yours</em></h2>
+        <p class="lead reveal" style="--d:.18s">A few minutes from Gota — just off S P Ring Road at Ognaj — 1.5+ acres of manicured lawn, palm-lined courts and a grand paved arrival plaza set the stage for celebrations under open skies.</p>
+        <ul class="about-points">
+          <li class="reveal" style="--d:.22s"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M5 13l4 4 10-10"/></svg> Best for weddings, receptions, garba nights, kitty parties &amp; corporate meets</li>
+          <li class="reveal" style="--d:.3s"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M5 13l4 4 10-10"/></svg> Flexible layouts — mandap, stage &amp; LED wall, round-table or lounge seating</li>
+          <li class="reveal" style="--d:.38s"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M5 13l4 4 10-10"/></svg> Outside caterers welcome, hawan &amp; baraat traditions honoured</li>
+          <li class="reveal" style="--d:.46s"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M5 13l4 4 10-10"/></svg> Ample on-site parking, power backup &amp; a dedicated events team</li>
+        </ul>
+        <div class="btn-row reveal" style="--d:.54s">
+          <a class="btn btn-dark" href="about.html">Discover the Space <span class="arr">→</span></a>
+          <a class="btn btn-line" href="gallery.html">View Gallery</a>
+        </div>
+        <div class="signature reveal" style="--d:.6s">
+          <span class="script">Celebrate under open skies,</span>
+          <small>The Blossom Promise</small>
+        </div>
+      </div>
+    </div>
+
+    <div class="counters stagger reveal">
+      <div class="counter"><b><span data-count="600"></span><i>+</i></b><span>Guests Capacity</span></div>
+      <div class="counter"><b><span data-count="4.6" data-dec="1"></span><i>★</i></b><span>Guest Rating</span></div>
+      <div class="counter"><b><span data-count="12"></span><i>hrs</i></b><span>Daily Event Window</span></div>
+      <div class="counter"><b><span data-count="100"></span><i>%</i></b><span>Open-Air Greens</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--paper" id="occasions">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow reveal">Made for Every Occasion <span class="dot">✿</span></p>
+      <h2 class="h2 reveal" style="--d:.08s">Six formats the lawn <em class="script">wears beautifully</em></h2>
+      <p class="lead reveal" style="--d:.16s">Run your cursor down the index — watch the grounds change mind. From sundown vows to full-moon garba, one celebration at a time.</p>
+    </div>
+    <div class="hx-list stagger reveal" data-reveal="up">
+      <a class="hx-row" href="occasions.html#weddings" data-img="images/occ-mandap-1.jpg">
+        <span class="hx-idx">01</span>
+        <span class="hx-main"><span class="hx-name">The Wedding Mandap</span><span class="hx-line">Baraat welcome, hawan-blessed rituals, a floral pavilion framed by palms.</span></span>
+        <span class="hx-go" aria-hidden="true">→</span>
+      </a>
+      <a class="hx-row" href="occasions.html#receptions" data-img="images/venue-6.png">
+        <span class="hx-idx">02</span>
+        <span class="hx-main"><span class="hx-name">Reception Nights</span><span class="hx-line">Golden stages, LED-lit lawns and buffet counters that dazzle.</span></span>
+        <span class="hx-go" aria-hidden="true">→</span>
+      </a>
+      <a class="hx-row" href="occasions.html#garba" data-img="images/occ-garba-1.jpg">
+        <span class="hx-idx">03</span>
+        <span class="hx-main"><span class="hx-name">Garba &amp; Sangeet Nights</span><span class="hx-line">Circles of colour and dhol-thumps under the Navratri moon.</span></span>
+        <span class="hx-go" aria-hidden="true">→</span>
+      </a>
+      <a class="hx-row" href="occasions.html#prewedding" data-img="images/occ-haldi-1.jpg">
+        <span class="hx-idx">04</span>
+        <span class="hx-main"><span class="hx-name">Haldi &amp; Mehndi Afternoons</span><span class="hx-line">Turmeric sun, marigold strings, laughter over the greens.</span></span>
+        <span class="hx-go" aria-hidden="true">→</span>
+      </a>
+      <a class="hx-row" href="occasions.html#birthdays" data-img="images/brand-flowers-1.jpg">
+        <span class="hx-idx">05</span>
+        <span class="hx-main"><span class="hx-name">Birthdays &amp; Showers</span><span class="hx-line">Theme-set tables, candy stations, room for little feet to dart.</span></span>
+        <span class="hx-go" aria-hidden="true">→</span>
+      </a>
+      <a class="hx-row" href="occasions.html#corporate" data-img="images/venue-2.png">
+        <span class="hx-idx">06</span>
+        <span class="hx-main"><span class="hx-name">Corporate Gatherings</span><span class="hx-line">Dealer meets and annual days with stage-first production support.</span></span>
+        <span class="hx-go" aria-hidden="true">→</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="band" data-parallax="0.25" style="background-image:url('images/venue-2.png')">
+  <div class="container">
+    <p class="eyebrow reveal">One Evening, Start to Finish</p>
+    <h2 class="display reveal" style="--d:.08s">Grand entry, glowing stage,<br><em class="script">and room for everyone</em></h2>
+    <p class="lead reveal" style="--d:.16s">A paved welcome court for the baraat, palm-flanked parking, a stage-and-LED main arena and decorated buffet counters — engineered so nothing, and no one, is left waiting.</p>
+    <div class="btn-row reveal" style="--d:.24s">
+      <a class="btn btn-gold" href="contact.html" data-magnet>Plan a Site Visit <span class="arr">→</span></a>
+      <a class="btn btn-ghost" href="occasions.html">All Occasions</a>
+    </div>
+  </div>
+</section>
+
+<section class="section section--dark" id="amenities">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow reveal">Everything in Place <span class="dot">✿</span></p>
+      <h2 class="h2 reveal" style="--d:.08s">Amenities that let you stay <em class="script">joyfully unbothered</em></h2>
+    </div>
+    <div class="amen-grid stagger reveal">
+      <div class="amen"><span class="amen-no">01</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg><h4>DJ &amp; Sound</h4><p>In-house DJ service available on request for sangeet, receptions and garba.</p></div>
+      <div class="amen"><span class="amen-no">02</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M13 2 4.5 13.5h6L11 22l8.5-11.5h-6L13 2z" stroke-linejoin="round"/></svg><h4>Power Backup</h4><p>Full-event generator backup — the lights never miss a beat.</p></div>
+      <div class="amen"><span class="amen-no">03</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 20h16M5 20V9h14v11M9 20V12m6 8v-8M3 9l9-5 9 5" stroke-linejoin="round"/></svg><h4>Mandap &amp; Stage</h4><p>Customised mandap, stage, backdrop and décor layouts per event.</p></div>
+      <div class="amen"><span class="amen-no">04</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 21V7l12-4v16"/><circle cx="5" cy="21" r="3"/><circle cx="18" cy="19" r="3"/></svg><h4>Outdoor Catering</h4><p>Outside caterers allowed — your menu, your flavours, from caterers of your choice.</p></div>
+      <div class="amen"><span class="amen-no">05</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M5 11l1.5-4.5A2 2 0 0 1 8.4 5h7.2a2 2 0 0 1 1.9 1.5L19 11M5 11h14M5 11v6h2m10-6v6h-2M7 17h10M7 17v2m10-2v2" stroke-linecap="round"/></svg><h4>Ample Parking</h4><p>Palm-lined paved courts absorb the busiest valet nights with ease.</p></div>
+      <div class="amen"><span class="amen-no">06</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 21s-6-4.6-6-9.5A6 6 0 0 1 12 6a6 6 0 0 1 6 5.5C18 16.4 12 21 12 21z" stroke-linejoin="round"/><circle cx="12" cy="11" r="2.2"/></svg><h4>Baraat Welcome</h4><p>Grand paved entry court made for dhol-procession arrivals.</p></div>
+      <div class="amen"><span class="amen-no">07</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 22c4 0 7-3 7-7 0-3-2-5.5-3.5-7C15 10 14 10.5 14 8c0-2.5-1-5-2-6-.5 3-1.5 4-3 6.5C7.5 11 5 13 5 15c0 4 3 7 7 7z" stroke-linejoin="round"/></svg><h4>Hawan Allowed</h4><p>Vedic rituals welcome — a purposeful space for sacred beginnings.</p></div>
+      <div class="amen"><span class="amen-no">08</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 3v3m0 12v3m-9-9h3m12 0h3M5.6 5.6l2.1 2.1m8.6 8.6 2.1 2.1m0-12.8-2.1 2.1m-8.6 8.6-2.1 2.1"/><circle cx="12" cy="12" r="3.2"/></svg><h4>Fireworks Allowed</h4><p>Spark-approved bursts to crown the finale under open skies.</p></div>
+      <div class="amen"><span class="amen-no">09</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 20c3-6 6-9 9-10m-9 10c6-1 9-3 12-7M12 10c.5-4 3-7 9-7-1 6-4 9-8 9.5" stroke-linecap="round"/><path d="M3 20h18" stroke-linecap="round"/></svg><h4>Manicured Lawns</h4><p>Balmy, breeze-touched greens maintained to photography-ready sheen.</p></div>
+      <div class="amen"><span class="amen-no">10</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M8.5 16v-4.2A3.2 3.2 0 0 1 12 8.5c1.6 0 3 .9 3 2.4s-1.2 2.1-3 2.1h-1.8" stroke-linecap="round"/></svg><h4>Event Support</h4><p>A dedicated team coordinates vendors, timelines and guest flow.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="gallery-preview">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow reveal">The Gallery <span class="dot">✿</span></p>
+      <h2 class="h2 reveal" style="--d:.08s">Evenings at Blossom, <em class="script">lens-tested</em></h2>
+    </div>
+    <div class="gal-grid stagger reveal">
+      <div class="gal-item tall" data-full="images/venue-4.png" data-cat="lawn day" data-cap="Lawn &amp; Live Counters — Golden Afternoons"><img src="images/venue-4.png" alt="Manicured lawn with decorated buffet counters and palm trees at Blossom Party Lawn" loading="lazy"><span class="gal-zoom"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3M11 8v6m-3-3h6"/></svg></span><span class="cap">Lawn &amp; Live Counters</span></div>
+      <div class="gal-item" data-full="images/venue-1.png" data-cat="decor" data-cap="The Grand Entry Plaza"><img src="images/venue-1.png" alt="Grand paved arrival plaza framed by greenery" loading="lazy"><span class="gal-zoom"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3M11 8v6m-3-3h6"/></svg></span><span class="cap">Grand Entry Plaza</span></div>
+      <div class="gal-item" data-full="images/occ-mandap-2.jpg" data-cat="decor" data-cap="Mandap Décor — Pillars of Bloom"><img src="images/occ-mandap-2.jpg" alt="Indian wedding mandap floral decoration" loading="lazy"><span class="gal-zoom"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3M11 8v6m-3-3h6"/></svg></span><span class="cap">Mandap Décor</span></div>
+      <div class="gal-item tall" data-full="images/venue-2.png" data-cat="evenings" data-cap="Stage &amp; LED Wall on the Lawn"><img src="images/venue-2.png" alt="Stage with LED wall and pink lighting on the lawn at night" loading="lazy"><span class="gal-zoom"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3M11 8v6m-3-3h6"/></svg></span><span class="cap">Stage &amp; LED Wall</span></div>
+      <div class="gal-item" data-full="images/occ-garba-1.jpg" data-cat="occasions" data-cap="Garba Under the Stars"><img src="images/occ-garba-1.jpg" alt="Garba couple dancing at ceremony" loading="lazy"><span class="gal-zoom"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3M11 8v6m-3-3h6"/></svg></span><span class="cap">Garba Nights</span></div>
+      <div class="gal-item" data-full="images/atmos-lamps-1.jpg" data-cat="evenings" data-cap="Diyas &amp; Dusk — Celebratory Glow"><img src="images/atmos-lamps-1.jpg" alt="Row of glowing oil lamps at dusk" loading="lazy"><span class="gal-zoom"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3M11 8v6m-3-3h6"/></svg></span><span class="cap">Diyas &amp; Dusk</span></div>
+      <div class="gal-item wide" data-full="images/venue-3.png" data-cat="evenings decor" data-cap="Evening Arrival — The Lit Canopy"><img src="images/venue-3.png" alt="Decorated entrance canopy in teal and magenta at night" loading="lazy"><span class="gal-zoom"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3M11 8v6m-3-3h6"/></svg></span><span class="cap">Evening Arrival Canopy</span></div>
+    </div>
+    <div class="gal-more reveal"><a class="btn btn-dark" href="gallery.html">Open the Full Gallery <span class="arr">→</span></a></div>
+  </div>
+</section>
+
+<section class="section section--dark section-tst" id="testimonials">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow reveal">Guest Diaries <span class="dot">✿</span></p>
+      <h2 class="h2 reveal" style="--d:.08s">Evenings that became <em class="script">favourite stories</em></h2>
+    </div>
+    <div id="tst">
+      <div class="tst active">
+        <svg class="tst-mark" viewBox="0 0 48 48" fill="currentColor" aria-hidden="true"><path d="M10 26h8l-4 12h-6a16 16 0 0 1 2-12zM28 26h8l-4 12h-6a16 16 0 0 1 2-12z" opacity=".9"/><path d="M18 24a10 10 0 0 1 8-10m10 12a10 10 0 0 1 8-10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".45"/></svg>
+        <blockquote>"It was a nice evening — we enjoyed a lot. The starters were amazing, and the <em>ambience &amp; decoration</em> were beautiful. Overall, the evening was splendid!!"</blockquote>
+        <div class="tst-stars" aria-label="5 star rating">★★★★★</div>
+        <div class="tst-meta"><span class="av"><img src="images/occ-couple-1.jpg" alt="" loading="lazy"></span><div><h5>Rushabh &amp; Kinjal</h5><span>Wedding Evening · Guests of the Family</span></div></div>
+      </div>
+      <div class="tst">
+        <svg class="tst-mark" viewBox="0 0 48 48" fill="currentColor" aria-hidden="true"><path d="M10 26h8l-4 12h-6a16 16 0 0 1 2-12zM28 26h8l-4 12h-6a16 16 0 0 1 2-12z" opacity=".9"/><path d="M18 24a10 10 0 0 1 8-10m10 12a10 10 0 0 1 8-10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".45"/></svg>
+        <blockquote>"We booked the lawn for our sangeet — the stage, the lights, the DJ sequencing — everything felt <em>larger than the evening</em> yet completely effortless."</blockquote>
+        <div class="tst-stars" aria-label="5 star rating">★★★★★</div>
+        <div class="tst-meta"><span class="av"><img src="images/occ-garba-1.jpg" alt="" loading="lazy"></span><div><h5>Meera Desai</h5><span>Sangeet Night · Host</span></div></div>
+      </div>
+      <div class="tst">
+        <svg class="tst-mark" viewBox="0 0 48 48" fill="currentColor" aria-hidden="true"><path d="M10 26h8l-4 12h-6a16 16 0 0 1 2-12zM28 26h8l-4 12h-6a16 16 0 0 1 2-12z" opacity=".9"/><path d="M18 24a10 10 0 0 1 8-10m10 12a10 10 0 0 1 8-10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".45"/></svg>
+        <blockquote>"Our dealer meet needed space and soberness — got both. Neatly kept lawns, <em>smooth vendor coordination</em> and guests who actually stayed till the last dish."</blockquote>
+        <div class="tst-stars" aria-label="4 and a half star rating">★★★★☆</div>
+        <div class="tst-meta"><span class="av"><img src="images/venue-2.png" alt="" loading="lazy"></span><div><h5>Nikhil Trivedi</h5><span>Corporate Annual Meet · Organiser</span></div></div>
+      </div>
+      <div class="tst-dots">
+        <button class="tst-dot active" aria-label="Testimonial 1"></button>
+        <button class="tst-dot" aria-label="Testimonial 2"></button>
+        <button class="tst-dot" aria-label="Testimonial 3"></button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--paper" id="packages-preview">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow reveal">Booking Made Simple <span class="dot">✿</span></p>
+      <h2 class="h2 reveal" style="--d:.08s">The ledger: <em class="script">three ways to bloom</em></h2>
+      <p class="lead reveal" style="--d:.16s">Full-day bookings from ₹7,00,000 with per-plate catering quoted to your menu — transparent, itemised, and planned to the last marigold.</p>
+    </div>
+    <div class="hx-ledger stagger reveal" data-reveal="up">
+      <a class="hx-tier" href="packages.html">
+        <span class="hx-tname"><b>The Meadow</b><i>Intimate &middot; lawn to 300 guests</i></span>
+        <span class="hx-dots" aria-hidden="true"></span>
+        <span class="hx-tprice">₹4.5 L<em>/ full-day venue</em></span>
+        <span class="hx-tlist">Standard mandap or stage &middot; power backup &amp; parking &middot; outside catering permitted</span>
+      </a>
+      <a class="hx-tier feature" href="contact.html">
+        <span class="hx-flag">Most Chosen</span>
+        <span class="hx-tname"><b>The Blossom</b><i>Signature &middot; 250&ndash;600 guests</i></span>
+        <span class="hx-dots" aria-hidden="true"></span>
+        <span class="hx-tprice">₹7.0 L<em>/ full-day booking</em></span>
+        <span class="hx-tlist">Grand entry court + baraat welcome &middot; stage, LED wall &amp; DJ &middot; custom premium menus &middot; 10&ndash;10 window</span>
+      </a>
+      <a class="hx-tier" href="packages.html">
+        <span class="hx-tname"><b>The Grand Bloom</b><i>Bespoke &middot; multi-function days</i></span>
+        <span class="hx-dots" aria-hidden="true"></span>
+        <span class="hx-tprice">On request<em>/ quoted to plan</em></span>
+        <span class="hx-tlist">Haldi &rarr; sangeet &rarr; reception itineraries &middot; designer décor lounges &middot; fireworks-ready finale</span>
+      </a>
+    </div>
+    <p class="pk-note reveal">Prices reflect full-day venue booking; catering &amp; décor are customised and quoted per plate. Payments accepted via Cash, UPI, Paytm, G-Pay, PhonePe &amp; Net Banking.</p>
+  </div>
+</section>
+
+<section class="section" id="faq">
+  <div class="container">
+    <div class="faq-wrap">
+      <div class="section-head">
+        <p class="eyebrow reveal">Good to Know <span class="dot">✿</span></p>
+        <h2 class="h2 reveal" style="--d:.08s">Questions families <em class="script">always ask us</em></h2>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">What is the guest capacity of Blossom Party Lawn?<span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5v14M5 12h14"/></svg></span></button>
+        <div class="faq-a"><div class="inner">The lush outdoor lawn comfortably hosts 250–600 guests depending on your chosen seating: floating, round-table or theatre-style arrangements.</div></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">Where exactly is the venue located?<span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5v14M5 12h14"/></svg></span></button>
+        <div class="faq-a"><div class="inner">Off New Science City Road at Vasantnagar Township, Ognaj, Ahmedabad 380060 — minutes from Gota and the S P Ring Road, with easy drives from Chandkheda, Motera and central Ahmedabad.</div></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">What are the daily event timings?<span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5v14M5 12h14"/></svg></span></button>
+        <div class="faq-a"><div class="inner">Events and celebrations run from 10:00 AM to 10:00 PM — ideal for haldi mornings through to reception evenings.</div></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">Can we bring our own caterers and décor team?<span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5v14M5 12h14"/></svg></span></button>
+        <div class="faq-a"><div class="inner">Yes — outside caterers are welcome at Blossom Party Lawn, and décor can be fully customised. Liquor is neither served nor permitted on the premises.</div></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">Is parking available for guests?<span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5v14M5 12h14"/></svg></span></button>
+        <div class="faq-a"><div class="inner">Ample on-site parking — palm-lined paved courts comfortably absorb wedding-scale arrivals including the baraat procession.</div></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">How do I reserve a date?<span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5v14M5 12h14"/></svg></span></button>
+        <div class="faq-a"><div class="inner">Enquire via the booking form, WhatsApp or call +91 84708 04805. We confirm availability, quote your menu, and a token booking locks your date.</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="container">
+    <div class="cta-frame">
+      <span class="script reveal">Before the petals fall…</span>
+      <h2 class="display reveal" style="--d:.08s">Reserve your date<br><em class="script">under the stars</em></h2>
+      <p class="lead reveal" style="--d:.16s">Wedding-season weekends are claimed early. Tell us your date — we'll hold it while you decide.</p>
+      <div class="btn-row reveal" style="--d:.24s">
+        <a class="btn btn-gold" href="contact.html" data-magnet>Start the Enquiry <span class="arr">→</span></a>
+        <a class="btn btn-ghost" href="tel:+918470804805">Call +91 84708 04805</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="f-brand">
+        <a class="brand" href="index.html" aria-label="Blossom Party Lawn — home">
+          <svg class="brand-mark" viewBox="0 0 96 96" fill="none" aria-hidden="true">
+            <circle cx="48" cy="48" r="43" stroke-width="1.6" style="stroke:var(--gold)"/>
+            <ellipse cx="48" cy="30" rx="10" ry="17" stroke-width="1.6" style="stroke:var(--gold)"/>
+            <ellipse cx="48" cy="30" rx="10" ry="17" stroke-width="1.6" transform="rotate(72 48 48)" style="stroke:var(--gold)"/>
+            <ellipse cx="48" cy="30" rx="10" ry="17" stroke-width="1.6" transform="rotate(144 48 48)" style="stroke:var(--gold)"/>
+            <ellipse cx="48" cy="30" rx="10" ry="17" stroke-width="1.6" transform="rotate(216 48 48)" style="stroke:var(--gold)"/>
+            <ellipse cx="48" cy="30" rx="10" ry="17" stroke-width="1.6" transform="rotate(288 48 48)" style="stroke:var(--gold)"/>
+            <circle cx="48" cy="48" r="6.5" stroke-width="1.6" style="stroke:var(--rose)"/>
+          </svg>
+          <span class="brand-text"><span class="brand-name" style="color:var(--cream)">Blossom</span><span class="brand-sub">Party Lawn</span></span>
+        </a>
+        <p>A lush open-air party lawn in Ognaj, Ahmedabad — where weddings, receptions, garba nights and corporate gatherings bloom into lifelong memories.</p>
+        <div class="f-social">
+          <a href="https://www.instagram.com/explore/tags/blossompartylawn/" aria-label="Instagram" rel="noopener" target="_blank"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3.5" y="3.5" width="17" height="17" rx="4.5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r="1" fill="currentColor" stroke="none"/></svg></a>
+          <a href="https://www.facebook.com/search/top?q=blossom%20party%20lawn" aria-label="Facebook" rel="noopener" target="_blank"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M14 8h2.5V5H14a4 4 0 0 0-4 4v2H8v3h2v7h3v-7h2.4l.6-3H13V9a1 1 0 0 1 1-1z"/></svg></a>
+          <a href="https://www.youtube.com/results?search_query=blossom+party+lawn+ahmedabad" aria-label="YouTube" rel="noopener" target="_blank"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M22 12s0-3.4-.4-5a2.8 2.8 0 0 0-2-2C17.9 4.5 12 4.5 12 4.5s-5.9 0-7.6.5a2.8 2.8 0 0 0-2 2C2 8.6 2 12 2 12s0 3.4.4 5a2.8 2.8 0 0 0 2 2c1.7.5 7.6.5 7.6.5s5.9 0 7.6-.5a2.8 2.8 0 0 0 2-2c.4-1.6.4-5 .4-5zM10 15.5v-7l6 3.5-6 3.5z"/></svg></a>
+          <a href="https://wa.me/918470804805" aria-label="WhatsApp" rel="noopener" target="_blank"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2zm0 18.2c-1.5 0-3-.4-4.3-1.2l-.3-.2-3 .8.8-3-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.6-6.1c-.3-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-2-1.2 7.4 7.4 0 0 1-1.4-1.7c-.2-.3 0-.4.1-.6l.5-.6a.6.6 0 0 0 .1-.5c0-.1-.6-1.5-.8-2s-.4-.5-.6-.5h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2A5.1 5.1 0 0 0 8.1 13a11 11 0 0 0 4.2 3.7 8.9 8.9 0 0 0 2.9.9 2.9 2.9 0 0 0 2-.7 2.6 2.6 0 0 0 .9-1.9c0-.2-.2-.4-.5-.5z"/></svg></a>
+        </div>
+      </div>
+      <div>
+        <h5 class="f-h">Explore</h5>
+        <ul class="f-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">The Venue</a></li>
+          <li><a href="occasions.html">Occasions</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
+          <li><a href="packages.html">Packages &amp; Pricing</a></li>
+          <li><a href="contact.html">Contact &amp; Booking</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5 class="f-h">Celebrations</h5>
+        <ul class="f-links">
+          <li><a href="occasions.html#weddings">Weddings &amp; Baraat</a></li>
+          <li><a href="occasions.html#receptions">Receptions</a></li>
+          <li><a href="occasions.html#garba">Garba &amp; Sangeet</a></li>
+          <li><a href="occasions.html#prewedding">Haldi &amp; Mehndi</a></li>
+          <li><a href="occasions.html#birthdays">Birthdays &amp; Showers</a></li>
+          <li><a href="occasions.html#corporate">Corporate Events</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5 class="f-h">Visit &amp; Book</h5>
+        <ul class="f-contact">
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 21s-6.5-5.1-6.5-10A6.5 6.5 0 0 1 12 4.5 6.5 6.5 0 0 1 18.5 11c0 4.9-6.5 10-6.5 10z"/><circle cx="12" cy="11" r="2.3"/></svg> New Science City Road, Vasantnagar Township, Ognaj, Ahmedabad, Gujarat 380060</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M5 4h4l1.7 4.2-2.2 1.7a12 12 0 0 0 5.6 5.6l1.7-2.2L20 15v4a2 2 0 0 1-2.2 2A17 17 0 0 1 3 6.2 2 2 0 0 1 5 4z"/></svg> <a href="tel:+918470804805">+91 84708 04805</a></li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="8.5"/><path d="M12 7v5l3.5 2"/></svg> Events daily, 10:00 AM – 10:00 PM</li>
+        </ul>
+        <form class="newsletter" onsubmit="return false" aria-label="Newsletter">
+          <input type="email" placeholder="Your email for date alerts" aria-label="Email address">
+          <button type="button" id="nlBtn" aria-label="Subscribe"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="16" height="16"><path d="M3 11l18-8-8 18-2-8-8-2z"/></svg></button>
+        </form>
+        <div class="newsletter-ok">Petal-fresh dates, coming your way ✿</div>
+      </div>
+    </div>
+    <div class="footer-foot">
+      <span>© <span id="yr">2026</span> Blossom Party Lawn, Ognaj · Ahmedabad, Gujarat. All rights reserved.</span>
+      <span class="made">Crafted with <b>✿</b> for celebrations</span>
+    </div>
+  </div>
+</footer>
+
+<div class="floaters">
+  <a class="wa-btn" href="https://wa.me/918470804805?text=Hi%20Blossom%20Party%20Lawn%2C%20I%27d%20like%20to%20check%20an%20event%20date." target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2zm0 18.2c-1.5 0-3-.4-4.3-1.2l-.3-.2-3 .8.8-3-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.6-6.1c-.3-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-2-1.2 7.4 7.4 0 0 1-1.4-1.7c-.2-.3 0-.4.1-.6l.5-.6a.6.6 0 0 0 .1-.5c0-.1-.6-1.5-.8-2s-.4-.5-.6-.5h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2A5.1 5.1 0 0 0 8.1 13a11 11 0 0 0 4.2 3.7 8.9 8.9 0 0 0 2.9.9 2.9 2.9 0 0 0 2-.7 2.6 2.6 0 0 0 .9-1.9c0-.2-.2-.4-.5-.5z"/></svg>
+  </a>
+  <button class="top-btn" id="topBtn" aria-label="Back to top"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 19V6m-6 6 6-6 6 6"/></svg></button>
+</div>
+
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Image viewer">
+  <div class="lb-frame">
+    <img src="" alt="">
+    <div class="lb-cap"></div>
+  </div>
+  <button class="lb-close" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  <button class="lb-prev" aria-label="Previous"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M15 6l-6 6 6 6"/></svg></button>
+  <button class="lb-next" aria-label="Next"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M9 6l6 6-6 6"/></svg></button>
+</div>
+
+<script src="js/main.js?v=5"></script>
+</body>
+</html>

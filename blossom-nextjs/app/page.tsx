@@ -294,7 +294,7 @@ export default function Home() {
                 { q: 'What are the daily event timings?', a: 'Events and celebrations run from 10:00 AM to 10:00 PM — ideal for haldi mornings through to reception evenings.' },
                 { q: 'Can we bring our own caterers and décor team?', a: 'Yes — outside caterers are welcome at Blossom Party Lawn, and décor can be fully customised. Liquor is neither served nor permitted on the premises.' },
                 { q: 'Is parking available for guests?', a: 'Ample on-site parking — palm-lined paved courts comfortably absorb wedding-scale arrivals including the baraat procession.' },
-                { q: 'How do I reserve a date?', a: 'Enquire via the booking form, WhatsApp or call +91 84708 04805. We confirm availability, quote your menu, and a token booking locks your date.' },
+                { q: 'How do I reserve a date?', a: 'Enquire via the booking form, WhatsApp or call +91 84608 20640. We confirm availability, quote your menu, and a token booking locks your date.' },
               ]}
             />
           </Rv>
@@ -310,7 +310,7 @@ export default function Home() {
               <p className="lead reveal" style={dl('0.16s')}>Wedding-season weekends are claimed early. Tell us your date — we&apos;ll hold it while you decide.</p>
               <div className="btn-row reveal" style={dl('0.24s')}>
                 <Mag className="btn btn-gold" href="/contact">Start the Enquiry <span className="arr">→</span></Mag>
-                <Link className="btn btn-ghost" href="tel:+918470804805">Call +91 84708 04805</Link>
+                <Link className="btn btn-ghost" href="tel:+918470820640">Call +91 84608 20640</Link>
               </div>
             </div>
           </Rv>

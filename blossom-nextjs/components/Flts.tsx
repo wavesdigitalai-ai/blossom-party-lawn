@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 
-const WA = 'https://wa.me/918470804805?text=Hi%20Blossom%20Party%20Lawn%2C%20I%27d%20like%20to%20check%20an%20event%20date.';
+const WA = 'https://wa.me/918470820640?text=Hi%20Blossom%20Party%20Lawn%2C%20I%27d%20like%20to%20check%20an%20event%20date.';
 
 export default function Flts() {
   const [show, setShow] = useState(false);

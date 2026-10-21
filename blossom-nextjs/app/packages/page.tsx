@@ -34,7 +34,7 @@ const faqLd = {
     { '@type': 'Question', name: 'How are catering charges estimated?', acceptedAnswer: { '@type': 'Answer', text: 'Per-plate costing follows your chosen menu, cuisine and counter styles. Typical Ahmedabad spreads range ₹500–₹1,500 per plate and are itemised in writing.' } },
     { '@type': 'Question', name: 'How far in advance is a date reserved?', acceptedAnswer: { '@type': 'Answer', text: 'Signature and Grand tiers for October–February weekends are usually reserved 4–9 months ahead. A token booking immediately locks the date; free provisional holds run for 7 days.' } },
     { '@type': 'Question', name: 'What payment modes are accepted?', acceptedAnswer: { '@type': 'Answer', text: 'Cash, UPI, Paytm, Google Pay, PhonePe and Net Banking. Split schedules — token, midpoint, wrap — are flexible within the agreed timeline.' } },
-    { '@type': 'Question', name: 'Can we visit before deciding?', acceptedAnswer: { '@type': 'Answer', text: 'Absolutely — site visits happen daily within business hours. Call or WhatsApp +91 84708 04805 to fix your walkthrough slot with a layout demo.' } },
+    { '@type': 'Question', name: 'Can we visit before deciding?', acceptedAnswer: { '@type': 'Answer', text: 'Absolutely — site visits happen daily within business hours. Call or WhatsApp +91 84608 20640 to fix your walkthrough slot with a layout demo.' } },
   ],
 };
 
@@ -178,7 +178,7 @@ export default function Packages() {
                 { q: 'How are catering charges estimated?', a: 'Per-plate costing follows your chosen menu, cuisine and counter styles with our empanelled or your own caterers. Typical Ahmedabad spreads range ₹500–₹1,500 per plate and are itemised in writing.' },
                 { q: 'How far in advance is a date reserved?', a: 'Signature and Grand tiers for October–February weekends are usually reserved 4–9 months ahead. A token booking immediately locks the date; free provisional holds run for 7 days.' },
                 { q: 'What payment modes are accepted?', a: 'Cash, UPI, Paytm, Google Pay, PhonePe and Net Banking. Split schedules — token, midpoint, wrap — are flexible within the agreed timeline.' },
-                { q: 'Can we visit before deciding?', a: 'Absolutely — site visits happen daily within business hours. Call or WhatsApp +91 84708 04805 to fix your walkthrough slot with a layout demo.' },
+                { q: 'Can we visit before deciding?', a: 'Absolutely — site visits happen daily within business hours. Call or WhatsApp +91 84608 20640 to fix your walkthrough slot with a layout demo.' },
               ]}
             />
           </Rv>

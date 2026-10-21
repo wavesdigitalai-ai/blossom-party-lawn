@@ -72,7 +72,7 @@ export default function Nav() {
             </ul>
           </nav>
           <div className="nav-cta">
-            <Mag className="btn btn-gold btn-sm" href={isContact ? 'tel:+918470804805' : '/contact'}>
+            <Mag className="btn btn-gold btn-sm" href={isContact ? 'tel:+918470820640' : '/contact'}>
               {isContact ? 'Call Now' : 'Reserve Your Date'} <span className="arr">→</span>
             </Mag>
           </div>
@@ -85,7 +85,7 @@ export default function Nav() {
         {LINKS.map(([href, label, no]) => (
           <Link key={href} href={href} onClick={() => setOpen(false)}>{label}<sup>{no}</sup></Link>
         ))}
-        <div className="mm-meta">New Science City Road, Ognaj, Ahmedabad &nbsp;·&nbsp; +91 84708 04805</div>
+        <div className="mm-meta">New Science City Road, Ognaj, Ahmedabad &nbsp;·&nbsp; +91 84608 20640</div>
       </div>
     </>
   );
